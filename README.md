@@ -12,7 +12,7 @@ You can start working through the tutorial right away! :smile:
 
 ## What is this?
 
-This repository contains the Binder setup reuiqred for running Jupyter Notebooks that use DataLad.
+This repository contains the Binder setup required for running Jupyter Notebooks that use DataLad.
 The repository was imported from [here](https://github.com/marianne-aspbury/openmr2021-dataviz-workshop-python),
 and further updates were then implemented:
 
@@ -24,6 +24,6 @@ and further updates were then implemented:
 
 ## TODO
 
-- Figure out problem with using `git clone` via `ssh`
+- Figure out problem with using `git clone` via `ssh` on Binder
 - Update either `rst` file or conversion process so that the edits mentioned in point 3 above would not be necessary
 - Automate building Jupyter notebook directly from [book content](https://github.com/datalad-handbook/book)
