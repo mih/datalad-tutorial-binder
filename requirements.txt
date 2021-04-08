@@ -1,13 +1,2 @@
-# Packages for the notebook
-pandas
-numpy
-matplotlib
-seaborn
-notebook
-nibabel
-
 datalad==0.13
 datalad-installer # to help with git-annex on Windows
-
-pybids==0.12.3    # to query bids datasets
-
