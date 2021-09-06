@@ -4,7 +4,7 @@
 
 To open a Jupyter Notebook with the DataLad tutorial in your browser, click the following link:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datalad-handbook/datalad-tutorial-binder/HEAD?filepath=code%2FOHBM.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datalad-handbook/datalad-tutorial-binder/HEAD)
 
 By doing so, everything will be set up for you in the cloud (via [MyBinder](https://mybinder.org/)), so you don't have to worry about installation of DataLad or other package dependencies.
 
