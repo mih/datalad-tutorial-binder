@@ -16,3 +16,4 @@ dependencies:
   - scikit-learn
   - texinfo
   - bash_kernel
+  - jupyter_contrib_nbextensions
