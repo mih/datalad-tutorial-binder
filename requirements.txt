@@ -1,2 +1,0 @@
-datalad==0.13
-datalad-installer # to help with git-annex on Windows
