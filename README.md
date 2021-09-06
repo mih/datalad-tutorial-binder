@@ -20,10 +20,9 @@ and further updates were then implemented:
 2. Add the converted notebook to the current repository, under `code/`
 3. Update the notebook to streamline the execution of terminal/bash commands (add line and cell magics)
 
-*Note: the majority of the notebook code executes as expected, apart from places where `git clone` is used with `ssh`*
+*Note: the majority of the notebook code executes as expected, however ...*
 
 ## TODO
 
-- Figure out problem with using `git clone` via `ssh` on Binder
 - Update either `rst` file or conversion process so that the edits mentioned in point 3 above would not be necessary
 - Automate building Jupyter notebook directly from [book content](https://github.com/datalad-handbook/book)
